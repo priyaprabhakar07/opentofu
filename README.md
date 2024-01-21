@@ -1,1 +1,1 @@
-# opentofu setuo in local
+# opentofu setup in local
